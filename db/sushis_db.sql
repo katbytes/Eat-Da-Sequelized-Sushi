@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS sushis_db;
+CREATE DATABASE IF NOT EXISTS sushis_db;
+USE sushis_db;
