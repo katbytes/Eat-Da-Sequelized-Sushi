@@ -15,7 +15,6 @@
 * Bootstrap - HTML, CSS, and JS Framework
 * Materialize - CSS Framework
 * Font Awesome - Font & Icon Toolkit
-* [Detailed Instructions](https://katbytes.github.io/Eat-Da-Sushi/public/assets/misc/homework_instructions)
 
 ## About the Author:
 [Katherine J. Bell](https://github.com/katbytes)
