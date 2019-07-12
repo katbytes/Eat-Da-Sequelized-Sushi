@@ -4,6 +4,7 @@
 * Visual Studio Code - IDE
 * Node.js
 * ORM - Object-Relational Mapping
+* MySQL Workbench - Visual DB Administration/Maintenance
 * Sequelize - A promise-based ORM 
 * express NPM Package - https://www.npmjs.com/package/express
 * path NPM Package - https://www.npmjs.com/package/path
@@ -12,6 +13,7 @@
 * AJAX - Asynchronous JavaScript And XML
 * JSON - JavaScript Object Notation
 * Heroku -  Cloud Platform Programming Language Support
+* JawsDB - Integrative DB Plugin for Heroku
 * Bootstrap - HTML, CSS, and JS Framework
 * Materialize - CSS Framework
 * Font Awesome - Font & Icon Toolkit
